@@ -45,6 +45,7 @@ student-distrib/mp3.img filter=lfs diff=lfs merge=lfs -text
 /syscalls/to_fsdir/sigtest filter=lfs diff=lfs merge=lfs -text
 /syscalls/to_fsdir/syserr filter=lfs diff=lfs merge=lfs -text
 /syscalls/to_fsdir/testprint filter=lfs diff=lfs merge=lfs -text
+mp3.img filter=lfs diff=lfs merge=lfs -text
 /gitignore filter=lfs diff=lfs merge=lfs -text
 *.bak filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
